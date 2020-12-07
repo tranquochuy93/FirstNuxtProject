@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vuex-type-helper": "^1.2.2"
+  }
+}
